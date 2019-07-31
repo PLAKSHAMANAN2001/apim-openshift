@@ -1,0 +1,16 @@
+Put all the product zips here.
+Download wso2am-2.6.0.zip and extract here
+Download jdk-8u221-linux-x64.tar.gz extract here
+Lakshmanans-MacBook-Pro:~ laks$ tree /Users/laks/Downloads/github/apim-openshift/centos
+/Users/laks/Downloads/github/apim-openshift/centos
+├── Dockerfile
+└── files
+    ├── README.md
+    ├── apim
+    │   └── axis2.xml
+    ├── lib
+    │   └── mysql-connector-java-8.0.12.jar
+    └── product
+        ├── jdk-8u221-linux-x64.tar.gz
+        ├── product-zips.txt
+        └── wso2am-2.6.0.zip
